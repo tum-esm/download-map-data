@@ -1,1 +1,1 @@
-*This codebase has been moved to **https://github.com/tum-esm/download-vertical-profiles**.*
+**❗️ Now included in https://github.com/tum-esm/em27-retrieval-pipeline ❗️**
